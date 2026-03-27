@@ -183,7 +183,7 @@ The interactive Dash dashboard allows you to:
 ## 👤 Author
 
 **Hamza Zarouali** — AI & Data Science Engineer  
-[LinkedIn](https://linkedin.com/in/HAMZAZAROUALI) · [Email](mailto:hamzazarouali100@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/hamza-zarouali-047967248/) · [Email](mailto:hamzazarouali100@gmail.com)
 
 ---
 
